@@ -1,5 +1,5 @@
 import React from 'react'
-import Sidebar from '../components/sidebar';
+import Sidebar from '../components/Sidebar';
 import Chat from '../components/Chat';
 import NoChat from '../components/NoChat'
 import { usePersStore } from '../store/usePersStore'
